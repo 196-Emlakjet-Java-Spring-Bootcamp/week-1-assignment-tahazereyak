@@ -1,4 +1,3 @@
-# week-1-assignment-tahazereyak
 <div id="main">
 <h1>JDK 11</h1>
 <p>JDK 11 is the open-source reference implementation of
